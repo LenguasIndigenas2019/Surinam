@@ -1,0 +1,36 @@
+#info{
+	background: #F1948A;
+	color: #000;
+	text-align: center;
+	padding: 20px;
+}
+
+#info h2 {
+
+	font-size: 70px;
+	font-family: "Algerian";
+	color: #000;
+}
+
+#info p {
+	font-size: 30px;
+	color: #000;
+}
+
+#info .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:center;
+}
+
+.info-mas{
+	margin: 20px;
+}
+
+.info-mas img {
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+
